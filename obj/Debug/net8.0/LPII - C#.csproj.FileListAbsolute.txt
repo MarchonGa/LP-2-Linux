@@ -1,0 +1,14 @@
+/home/marchon/Área de Trabalho/LPII - C#/bin/Debug/net8.0/LPII - C#
+/home/marchon/Área de Trabalho/LPII - C#/bin/Debug/net8.0/LPII - C#.deps.json
+/home/marchon/Área de Trabalho/LPII - C#/bin/Debug/net8.0/LPII - C#.runtimeconfig.json
+/home/marchon/Área de Trabalho/LPII - C#/bin/Debug/net8.0/LPII - C#.dll
+/home/marchon/Área de Trabalho/LPII - C#/bin/Debug/net8.0/LPII - C#.pdb
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.AssemblyInfoInputs.cache
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.AssemblyInfo.cs
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.csproj.CoreCompileInputs.cache
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.dll
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/refint/LPII - C#.dll
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.pdb
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.genruntimeconfig.cache
+/home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/ref/LPII - C#.dll
