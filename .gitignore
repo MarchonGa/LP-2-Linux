@@ -1,0 +1,11 @@
+# Ignorar pastas de build
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos do VSCode/Eclipse/IDE
+.vscode/
+*.user
+*.suo
+*.cache

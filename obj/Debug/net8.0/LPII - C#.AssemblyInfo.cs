@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LPII - C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a49bb5923f211f423981601e8f4134ffa285758")]
 [assembly: System.Reflection.AssemblyProductAttribute("LPII - C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LPII - C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
