@@ -6,6 +6,7 @@ class Program {
     {
         ulong tam = 1000000000;
         Console.WriteLine(Pi(tam));
+        Console.WriteLine("Fim");
     }
 
     static double Pi(ulong n){

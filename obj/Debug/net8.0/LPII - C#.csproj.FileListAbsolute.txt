@@ -12,3 +12,18 @@
 /home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.pdb
 /home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/LPII - C#.genruntimeconfig.cache
 /home/marchon/Área de Trabalho/LPII - C#/obj/Debug/net8.0/ref/LPII - C#.dll
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\bin\Debug\net8.0\LPII - C#.exe
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\bin\Debug\net8.0\LPII - C#.deps.json
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\bin\Debug\net8.0\LPII - C#.runtimeconfig.json
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\bin\Debug\net8.0\LPII - C#.dll
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\bin\Debug\net8.0\LPII - C#.pdb
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.AssemblyInfoInputs.cache
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.AssemblyInfo.cs
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.csproj.CoreCompileInputs.cache
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.sourcelink.json
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.dll
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\refint\LPII - C#.dll
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.pdb
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\LPII - C#.genruntimeconfig.cache
+C:\Users\hazem\OneDrive\Desktop\C# Teste Commit\LP-2-Linux\obj\Debug\net8.0\ref\LPII - C#.dll
